@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements OnConnListener, O
 
     /// api地址
     final static String IP_API = "http://121.37.25.71:10000";
+
     /// websocket地址
     final static String IP_WS = "ws://121.37.25.71:17778";
 
